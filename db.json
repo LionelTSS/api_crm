@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "nombre": "Lionel Gaston",
+      "empresa": "Tatto Studio",
+      "email": "correo@correo.com",
+      "numero": "145416551446",
+      "notas": "Otro cliente",
+      "id": 1
+    },
+    {
+      "nombre": "Agus",
+      "empresa": "Venta Papas",
+      "email": "correo@correo.com",
+      "numero": "656165416515",
+      "notas": "Vende papas",
+      "id": 2
+    }
+  ]
+}
